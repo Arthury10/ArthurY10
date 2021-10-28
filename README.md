@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ```javascript
-const arthur = {
+  const arthur = {
   name: 'Arthur Ropke de Moraes',
   age: '20',
   from: 'Morro Redondo RS'
