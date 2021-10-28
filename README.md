@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ```javascript
 const arthur = {
   name: 'Arthur Ropke de Moraes',
-  age: '20'
+  age: '20',
   from: 'Morro Redondo RS'
 }
 
