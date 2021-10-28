@@ -26,3 +26,4 @@ const arthur = {
 ```
 ![ArthurY10 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurY10&show_icons=true&theme=midnight-purple)
 
+![Snake animation](https://github.com/ArthurY10/ArthurY10/blob/output/github-contribution-grid-snake.svg)
