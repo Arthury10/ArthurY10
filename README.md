@@ -13,5 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+```javascript
+const arthur = {
+  name: 'Arthur Ropke de Moraes',
+  age: '20'
+  from: 'Morro Redondo RS'
+}
+
+```
 ![ArthurY10 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurY10&show_icons=true&theme=midnight-purple)
 
