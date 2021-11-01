@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![image](https://passport.rocketseat.com.br/images/passportReactJS.svg)
-
 ```javascript
   const arthur = {
   name: 'Arthur Ropke de Moraes',
