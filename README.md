@@ -51,11 +51,6 @@ const arthur = {
 </p>
 
 
-
-<p align="left">
-  <img src="https://img.icons8.com/color/40/000000/react.png">
-</p>
-
 <p align="center">
 	
   ## Total de visitas no meu perfil :detective: <br>
