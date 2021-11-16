@@ -21,7 +21,7 @@
 
 
 <a href="#">
-    <img align="right" width="300" height="500" src="https://github.com/Arthury10/ArthurY10/blob/main/img/Passaporte-react-js.png?raw=true)" />
+    <img align="right" width="500" src="https://github.com/Arthury10/ArthurY10/blob/main/img/Passaporte-react-js.png?raw=true)" />
 </a>
 
 
