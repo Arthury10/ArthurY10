@@ -5,7 +5,7 @@
 
 ## Meus contatos :iphone:
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/Arthury10">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Arthury10">
     </a>
@@ -20,7 +20,9 @@
 </p>
 
 
-![image](https://github.com/Arthury10/ArthurY10/blob/main/img/Passaporte-react-js.png?raw=true)
+<a href="#">
+    <img align="center" width="300" src="https://github.com/Arthury10/ArthurY10/blob/main/img/Passaporte-react-js.png?raw=true)" />
+  </a>
 
 
 
