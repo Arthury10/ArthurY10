@@ -1,20 +1,19 @@
 ![image](https://repository-images.githubusercontent.com/346374610/5e85bc80-8413-11eb-9e69-1fd4765ab542)
 
 
-### Hi there 👋
+# Arthur Ropke
 
-**Arthury10/ArthurY10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left">
+  <a href="https://www.linkedin.com/in/arthur-ropke/">
+    <img src="https://img.shields.io/badge/-Arthur%20Ropke-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurropke" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/<!--arthury1021-->%230090-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/Arthury10">
+    <img src="https://img.shields.io/github/followers/Arthury10?label=Follow&style=social" />
+  </a>
+</p>
 
 ```javascript
   const arthur = {
