@@ -1,9 +1,9 @@
 ![image](https://repository-images.githubusercontent.com/346374610/5e85bc80-8413-11eb-9e69-1fd4765ab542)
 
-<div style="display: flex">
+
 # Arthur Ropke
 ![image](https://github.com/Arthury10/ArthurY10/blob/main/img/Passaporte-react-js.png?raw=true)
-</div>
+
 
 
 
