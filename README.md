@@ -47,6 +47,12 @@ const arthur = {
 ## Estudando :book:
 
 <p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
+
+
+
+<p align="left">
   <img src="https://img.icons8.com/color/40/000000/react.png">
 </p>
 
