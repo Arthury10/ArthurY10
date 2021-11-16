@@ -42,13 +42,15 @@ const arthur = {
   <img src="https://img.icons8.com/color/40/000000/javascript.png">
 </p>
 
-![ArthurY10 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurY10&show_icons=true&theme=midnight-purple)
 
 ## Estudando :book:
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
+
+
+![ArthurY10 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurY10&show_icons=true&theme=midnight-purple)
 
 
 <p align="center">
