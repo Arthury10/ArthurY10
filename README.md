@@ -43,3 +43,10 @@ const arthur = {
 </p>
 
 ![ArthurY10 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurY10&show_icons=true&theme=midnight-purple)
+
+<p align="center"> 
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Arthury10/count.svg" />
+ </p>
+</p>
