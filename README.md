@@ -11,7 +11,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="arthurropke@hotmail.com">
-        <img src="https://img.shields.io/badge/hotmail-D14836?&style=for-the-badge&logo=hotmail&logoColor=white&link=mailto:arthurropke@hotmail.com">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/arthur-ropke/">
