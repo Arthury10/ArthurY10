@@ -21,13 +21,16 @@
   age: '20',
   from: 'Morro Redondo RS'
 }
+
+```
+
 # Technologies 
 
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/40/000000/html-5.png">
   <img src="https://img.icons8.com/color/40/0080FF/css3.png">
   <img src="https://img.icons8.com/color/40/000000/javascript.png">
 </p>
 
-```
+
 ![ArthurY10 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurY10&show_icons=true&theme=midnight-purple)
