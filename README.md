@@ -1,23 +1,28 @@
 ![image](https://repository-images.githubusercontent.com/346374610/5e85bc80-8413-11eb-9e69-1fd4765ab542)
 
 
-# Arthur Ropke
+# Arthur Ropke 
+
+## Meus contatos :iphone:
+
+<p align="center">
+    <a href="https://github.com/Arthury10">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Arthury10">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="arthurropke@hotmail.com">
+        <img src="https://img.shields.io/badge/hotmail-D14836?&style=for-the-badge&logo=hotmail&logoColor=white&link=mailto:arthurropke@hotmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/arthur-ropke/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/arthur-ropke/">
+    </a>
+</p>
+
+
 ![image](https://github.com/Arthury10/ArthurY10/blob/main/img/Passaporte-react-js.png?raw=true)
 
 
-
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arthur-ropke/">
-    <img src="https://img.shields.io/badge/-Arthur%20Ropke-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurropke" />
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/<!--arthury1021-->%230090-6633cc?style=flat-square&logo=Discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/Arthury10">
-    <img src="https://img.shields.io/github/followers/Arthury10?label=Follow&style=social" />
-  </a>
-</p>
 
 ```javascript
 const arthur = {
