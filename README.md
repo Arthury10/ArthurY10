@@ -1,5 +1,5 @@
 ![image](https://repository-images.githubusercontent.com/346374610/5e85bc80-8413-11eb-9e69-1fd4765ab542)
-![image](url:'')
+![image](url)
 
 # Arthur Ropke
 
