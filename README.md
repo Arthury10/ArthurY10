@@ -50,8 +50,8 @@ const arthur = {
 </p>
 
 
-![ArthurY10 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurY10&show_icons=true&theme=midnight-purple)
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthury10&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArthurY10&show_icons=true&theme=midnight-purple"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthury10&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 
 <p align="center">
