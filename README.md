@@ -51,6 +51,7 @@ const arthur = {
 
 
 ![ArthurY10 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurY10&show_icons=true&theme=midnight-purple)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthury10&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
 <p align="center">
