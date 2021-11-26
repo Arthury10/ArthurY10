@@ -34,7 +34,7 @@ const arthur = {
 }
 ```
 
-# Technologies
+# Tecnologias
 
 <p align="left">
   <img src="https://img.icons8.com/color/40/000000/html-5.png">
