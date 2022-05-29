@@ -40,7 +40,7 @@ const arthur = {
   <img src="https://img.icons8.com/color/40/000000/html-5.png">
   <img src="https://img.icons8.com/color/40/0080FF/css3.png">
   <img src="https://img.icons8.com/color/40/000000/javascript.png">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React-native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://icomoon.io/iconsabf18a1/4/653.svg">
 </p>
 
