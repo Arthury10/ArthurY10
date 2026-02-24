@@ -1,5 +1,3 @@
-# Arthur Ropke 
-
 ## Meus contatos :iphone:
 
 <p align="left">
