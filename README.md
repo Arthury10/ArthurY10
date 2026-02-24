@@ -1,6 +1,3 @@
-![image](https://repository-images.githubusercontent.com/346374610/5e85bc80-8413-11eb-9e69-1fd4765ab542)
-
-
 # Arthur Ropke 
 
 ## Meus contatos :iphone:
@@ -29,36 +26,7 @@
 ```javascript
 const arthur = {
 	name: 'Arthur Ropke de Moraes',
-	age: '20',
+	age: '24',
 	from: 'Morro Redondo RS'
 }
 ```
-
-# Tecnologias
-
-<p align="left">
-  <img src="https://img.icons8.com/color/40/000000/html-5.png">
-  <img src="https://img.icons8.com/color/40/0080FF/css3.png">
-  <img src="https://img.icons8.com/color/40/000000/javascript.png">
-  <img src="https://icomoon.io/iconsabf18a1/4/653.svg">
-  <img src="https://icomoon.io/iconsabf18a1/4/39.svg">
-  <img src="https://icomoon.io/iconsabf18a1/4/328.svg">
-</p>
-
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArthurY10&show_icons=true&theme=midnight-purple"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthury10&layout=compact&langs_count=7&theme=midnight-purple"/>
-
-
-<p align="center">
-	
-  ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Arthury10/count.svg" />
- </p>
- 
-</p>
-
-
-![image](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRmaGtlrWxrbQ.jpg)
-
